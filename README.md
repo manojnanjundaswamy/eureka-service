@@ -1,1 +1,1 @@
-Hi
+Eureka server for Food ordering app
